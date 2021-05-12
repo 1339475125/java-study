@@ -8,6 +8,9 @@ package cn.gm.oo;
  * @Version 1.0
  **/
 public class User {
+    public User(int i, String dsd) {
+    }
+
     public static void main(String[] args) {
 
     }

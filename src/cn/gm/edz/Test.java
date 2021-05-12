@@ -15,7 +15,7 @@ import static java.lang.Math.*;
  **/
 public class Test {
     public static void main(String[] args) {
-        User user = new User();
+//        User user = new User();
         java.util.Date date = new java.util.Date(); //优先使用util里面,直接指明
         System.out.println(PI);
     }

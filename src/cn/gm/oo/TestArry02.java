@@ -12,8 +12,8 @@ public class TestArry02 {
         int[] a = {2, 3,4}; //静态初始化
         User[] b = {
                 new User(1001, "dsd"),
-                new User(1001, "fewff"),
-                new User(1001, "dsdwfwf")};
+                new User(1002, "fewff"),
+                new User(1003, "dsdwfwf")};
         //默认初始化
         int[] c = new int[3]; //默认给数组的元素进行赋值，赋值的规则和成员变量默认赋值规则一致
         // 动态初始化
